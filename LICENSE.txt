@@ -1,0 +1,8 @@
+Copyright (c) 2025 NeomAAA Ltd
+
+All rights reserved.
+
+This software and its source code are proprietary and confidential.
+Unauthorized copying, modification, distribution, or use of this software,
+in source or binary form, is strictly prohibited without prior written
+permission from the copyright holder.
