@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Demo</title>
+  </head>
+  <body style="background-color: black">
+    <div
+      id="neomaaa-notification-center"
+      data-app-id="gbxpk9UXyq1H"
+      data-subscriber="68b808909be60caa94b70ae5"
+      data-api-url="https://eu.api.novu.co"
+      data-socket-url="wss://eu.socket.novu.co"
+    ></div>
+
+    <link rel="stylesheet" href="./assets/index.css" />
+    <script src="./assets/index.js"></script>
+    <script>
+      document.addEventListener("DOMContentLoaded", () => {
+        window.NeomaaaInbox?.init();
+      });
+    </script>
+  </body>
+</html>
